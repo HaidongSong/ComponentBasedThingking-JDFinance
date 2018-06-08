@@ -12,5 +12,5 @@
   * [js组件化及自适应](di-2-zhang-gong-cheng-gou-jian-yu-mo-kuai-she-ji/jszu-jian-hua-ji-zi-shi-ying.md)
 * [第3章 页面设计](di-3-zhang-ye-mian-she-ji.md)
 * [第4章 构建工具](di-4-zhang-gou-jian-gong-ju.md)
-* [第5章 上线测试](di-5-zhang-shang-xian-ce-shi.md)
+* [第5章 面试总结](di-5-zhang-shang-xian-ce-shi.md)
 
